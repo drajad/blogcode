@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>DipoApp Blog</title>
+    <link href="https://code.dipo.app/feed.xml" rel="self" />
+    <link href="https://code.dipo.app" />
+    <updated>2024-07-04T23:35:10+07:00</updated>
+    <author>
+        <name>Dipo</name>
+    </author>
+    <id>https://code.dipo.app</id>
+
+    <entry>
+        <title>Apakah Search Engine Bakal Mati karena AI ChatGPT?</title>
+        <author>
+            <name>Dipo</name>
+        </author>
+        <link href="https://code.dipo.app/apakah-search-engine-bakal-mati-karena-ai-chatgpt/"/>
+        <id>https://code.dipo.app/apakah-search-engine-bakal-mati-karena-ai-chatgpt/</id>
+        <media:content url="https://code.dipo.app/media/posts/1/photo-1477013743164-ffc3a5e556da.jpg" medium="image" />
+            <category term="AI"/>
+
+        <updated>2024-07-04T23:21:27+07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://code.dipo.app/media/posts/1/photo-1477013743164-ffc3a5e556da.jpg" alt="" />
+                    Saya sudah lama kepikiran, apa iya search engine (Google, Bing, dsb) akan hilang dan&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://code.dipo.app/media/posts/1/photo-1477013743164-ffc3a5e556da.jpg" class="type:primaryImage" alt="" /></p>
+                <p>Saya sudah lama kepikiran, apa iya <strong>search engine</strong> (<a href="https://www.google.com/?ref=blog.dipo.app" rel="noreferrer">Google</a>, Bing, dsb) akan hilang dan mati karena digempur oleh ai khususnya ChatGPT? ChatGPT sudah bisa menjawab hampir semua pertanyaan kita tanpa perlu mencari melalui mesin pencari. Tidak perlu repot-repot masuk ke website yang kadang isinya "sampah", tidak relevan dengan topik yang kita cari. Bahkan dengan bantuan AI kita bisa membuat tulisan bahkan membuat kode pemrograman sederhana hanya dengan meminta bantuan padanya. Cukup ketik dan tunggu. Sudah, cukup itu saja langkahnya.</p>
+<p>Namun pikiran saya itu ternyata salah. <a href="https://chat.openai.com/?ref=blog.dipo.app" rel="noreferrer">ChatGPT</a> untuk saat ini tidak akan bisa menggantikan search engine (mesin pencari) sepenuhnya. Search engine memberikan informasi yang lebih rinci mengenai suatu topik, ia menawarkan lebih banyak sumber dan referensi yang dapat kita pelajari. ChatpGPT hanya dapat menampilkan data sesuai dataset yang ia gunakan. Artinya, untuk saat ini, ChatGPT tidak bisa memberikan data terbaru. Keakuratan jawaban dibatasi oleh data yang telah dilatihnya.</p>
+<figure class="post__image"><img loading="lazy"  src="https://images.unsplash.com/photo-1675557009285-b55f562641b9?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3wxMTc3M3wwfDF8c2VhcmNofDV8fGNoYXRncHR8ZW58MHx8fHwxNzE1MTM5MTI3fDA&amp;ixlib=rb-4.0.3&amp;q=80&amp;w=1000" alt="" width="1000" height="667" data-is-external-image="true"></figure>
+<p>Tapi tidak bisa dipungkiri bahwa ChatGPT bisa saja menyebabkan penurunan jumlah penggunaan search engine karena semakin ke sini pengguna mulai bergantung pada alat yang bisa memberikan jawaban dan informasi dengan cepat. Hal ini berpotensi pada berkurangnya pangsa pasar mesin pencari seperti Google dan <a href="https://www.bing.com/?ref=blog.dipo.app" rel="noreferrer">Bing</a>, namun kecil kemungkinan kalau search engine akan mati. Apalagi sekarang mereka juga menggunakan AI untuk membantu meningkatkan akurasi dan relevansi hasil pencarian.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
